@@ -1,0 +1,5 @@
+MAX_NUMBER = 9
+SMALL_SQUARE_SIZE = 3
+
+SUM_KEY = 'sum'
+SQUARES_KEY = 'squares'
